@@ -6,6 +6,7 @@
 >a. what is program
 >b. what is programming
 >c. what is programming language
+---
 ### question 2
 >a. what is compiler
 >b. what is interpreter
