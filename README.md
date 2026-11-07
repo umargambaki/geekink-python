@@ -2,11 +2,10 @@
 ---
 ## Assignment
 ---
-### question 1
-
-> a. what is program
-> b. what is programming
-> c. what is programming language
+### question 1.
+* a. what is program
+b. what is programming
+c. what is programming language
 ---
 ### question 2
 
