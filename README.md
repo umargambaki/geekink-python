@@ -36,7 +36,7 @@
 >c.
 
 example of compiler
->1. GCC-C and C_++
+>1. GCC-C and C_++ compiler
 >2. Clang-C,C++,and objective
 >3. javac-java compiler
 >
