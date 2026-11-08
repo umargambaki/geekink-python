@@ -41,9 +41,10 @@ example of compiler
 >3. javac-java compiler
 >
 example of interpreter
->1.python interpreter
->2.ruby interpreter
->3.PHP interpreter
+
+>1. python interpreter 
+>2. ruby interpreter
+>3. PHP interpreter
 
 
 
