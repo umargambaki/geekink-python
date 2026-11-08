@@ -17,5 +17,13 @@
 
 >b. what is interpreter
 
->c. what are the difference between compiler and interpreter, whith atleast 3 example of each. 
+>c. what are the difference between compiler and interpreter, whith atleast 3 example of each.
 
+---
+## Answer
+Q1.
+>a. A program is a set of instructions written in a programming language that tells a computer what to do to perform a particular task.
+
+>b. A Programming is a process of designing,writing,testing,debugging,and maintaining instructions that tells a computer how to perform a specific tasks.
+
+>c. A programming language is a formal language used by programmers to communicate instructions to a computer.
